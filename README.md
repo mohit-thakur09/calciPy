@@ -10,5 +10,6 @@ This straightforward calculator, crafted with Tkinter and Python, provides users
 
 # UI: Here is what the calculator looks like!
 
-![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/04085f78-324f-4c90-9de2-1c8648826759)
-![UI calciPy2](https://github.com/mohit-thakur09/calciPy/assets/82665617/1545cab9-25ae-4658-b867-fc832c47229f)
+
+![UI calciPy2](https://github.com/mohit-thakur09/calciPy/assets/82665617/c39329e4-e6a5-4972-bb5b-987df5c8d7e0)
+![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/fc430a77-82cb-435b-a0ca-1c92b947809c)
