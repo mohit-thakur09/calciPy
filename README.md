@@ -11,4 +11,3 @@ This straightforward calculator, crafted with Tkinter and Python, provides users
 # UI: 
 ![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/04085f78-324f-4c90-9de2-1c8648826759)
 ![UI calciPy2](https://github.com/mohit-thakur09/calciPy/assets/82665617/1545cab9-25ae-4658-b867-fc832c47229f)
-![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/be78cf8c-5b73-4fa0-a4e2-6e602a1926f1)
