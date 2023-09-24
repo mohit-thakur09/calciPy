@@ -9,8 +9,6 @@ This straightforward calculator, crafted with Tkinter and Python, provides users
 - Unit Testing: Write unit tests to ensure the correctness of your calculator functions and handle edge cases.
 
 # UI: 
-
-!
-[UI calciPy2](https://github.com/mohit-thakur09/calciPy/assets/82665617/a4cd862e-1258-4123-b38a-e84c6cbe9386)
-!
-[UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/b7c1a5f4-a607-4d11-a580-3f3e8e85ae32)
+![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/04085f78-324f-4c90-9de2-1c8648826759)
+![UI calciPy2](https://github.com/mohit-thakur09/calciPy/assets/82665617/1545cab9-25ae-4658-b867-fc832c47229f)
+![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/be78cf8c-5b73-4fa0-a4e2-6e602a1926f1)
