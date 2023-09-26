@@ -1,5 +1,7 @@
 # Calculator : calciPy
 
+![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/fc430a77-82cb-435b-a0ca-1c92b947809c)
+
 This straightforward calculator, crafted with Tkinter and Python, provides users with a user-friendly interface for conducting common arithmetic operations. While its current features cater to basic calculations. User can perform their day to day basic calculation using this calculator.
 
 ## Features
@@ -13,7 +15,6 @@ This straightforward calculator, crafted with Tkinter and Python, provides users
 
 
 ![UI calciPy2](https://github.com/mohit-thakur09/calciPy/assets/82665617/c39329e4-e6a5-4972-bb5b-987df5c8d7e0)
-![UI calciPy1](https://github.com/mohit-thakur09/calciPy/assets/82665617/fc430a77-82cb-435b-a0ca-1c92b947809c)
 
 
 # Error Handling : 
